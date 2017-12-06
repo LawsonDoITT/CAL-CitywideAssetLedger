@@ -1,6 +1,6 @@
-// Christian Lawson - Decmeber 2017 - Citywide Asset Ledger
+// Christian Lawson - December 2017 - Citywide Asset Ledger
 
-
+// Could make it SHA512
 const SHA256 = require("crypto-js/sha256");
 
 class Block {
