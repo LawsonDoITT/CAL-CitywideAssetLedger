@@ -1,6 +1,10 @@
 CityWide Asset Ledger ® - Hybrid (Private/Public) Blockchain to track all Assets for The City of New York - 512-bit Encrypted
 A Blockchain with built-in Smart Contracts to track all Citywide Assets for The City of New York. Tamper Proof, Immutable, 100% availability.
-examples: Stage 1 - Property and Car Titles, Death and Marriage Certificates, Agency to Agency agreements, IoT Assets, contract and transactions, Transport Transactions. Stage 2 - All types of City Benefits and Any form of Public record or agreements between city agencies
 Absolute fraud protection on all transactions, no middlemen, fast Transaction times and absolutely un-hackable due to 512bit encryption and the consensus algorithm across ledgers.
-Stage 3 – Neural Network analyzing datasets from all city agencies and creating contracts and agreements automatically + reinforcement learning.
-Stage 4 add contracts associated with compliance and audit.
+Roadmap:
+Stage 1 - Small Agency to POC, test Security and Business Process. (Start with Excel data)
+Stage 2 - Property and Car Titles, Death and Marriage Certificates, Agency to Agency agreements, IoT Assets, Contract and transactions, Transport Transactions.
+Stage 3 - All types of City Benefits. Any form of Public record or agreements between city agencies and public.
+Stage 4 - Add contracts associated with compliance and audit.
+Stage 5 - Side Blockchain’s for each Agency for Private information not to be shared with other Agency’s or Public.
+Stage 6 – Add Deep Learning to investigate datasets across the City and Automatically create Contracts and Agreements with reinforcement learning.
