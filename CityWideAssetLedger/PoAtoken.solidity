@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-import "zeppelin-solidity/contracts/token/StandardToken.sol";
+import "StandardToken.sol";
 
 
 /* Proof-of-Asset contract representing a token backed by a foreign asset.
