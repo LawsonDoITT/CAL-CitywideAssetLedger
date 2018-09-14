@@ -3,10 +3,10 @@ A Blockchain with built-in Smart Contracts to track all Citywide Assets for The 
 Absolute fraud protection on all transactions, no middlemen, fast Transaction times and absolutely un-hackable due to encryption
 and the consensus algorithm.  
 Roadmap:
-Stage 1 - Agency to Agency shared data POC, test Security and Business Process. ((Excel data))
-Stage 2 - Property and Car Titles, Death and Marriage Certificates, Agency to Agency agreements, IoT Assets, Vehicle tracking and audit,
+Stage 1 - Agency to Agency supply chain data, test Business Process. ((Excel data))
+Stage 2 - Add Property and Car Titles, Death and Marriage Certificates, Agency to Agency agreements, IoT Assets, Vehicle tracking and audit,
 Contract and transactions, Transport Transactions.
-Stage 3 - All types of City Benefits. Any form of Public record or agreements between city agencies and public.
+Stage 3 - Add City Benefits. Any form of Public record or agreements between city agencies and public.
 Stage 4 - Add contracts associated with compliance and audit.
 Stage 5 - Mobile voting system via 311 Application. Immutable and would increase voter turnout, increasing Democracy.
 Stage 6 - Side Blockchain’s for each Agency for Private information not to be shared with other Agency’s or Public.
